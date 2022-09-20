@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+*{
+	margin: 4px;
+	font-family: 'Poppins', sans-serif;
+}
+
+body{
+	background-image: url(../IMG/FondoMasCompost.png);
+	background-size: cover;
+}
+
+header img{
+	
+	width: 220px;
+	height: 150px;
+}
+
+.form-register{
+	width: 95%;
+	width: 500px;
+	margin: auto;
+	background: rgb(16, 161, 115,0.5);
+	border-radius: 8px;
+}
+
+.form-titulo{
+	color: black;
+	padding: 20px;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+	
+}
+
+.cont-input{
+	padding: 10px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+
+}
+
+.input1{
+	width: 45%;
+
+}
+
+.input2{
+	width: 98%;
+}
+
+input{
+	padding: 5px;
+	margin-bottom: 15px;
+	border-radius: 3px;
+	border: 2px solid darkgray;
+	box-shadow: 2px 2px 2px 2px;
+
+}
+
+.btn-enviar{
+	background:#8C1BF6 ;
+	color: #FFFFFF;
+	padding: 10px 40px;
+	font-size: 20px;
+	border-radius: 8px;
+	cursor: pointer;
+
+}
+
+.btn-enviar:active{
+	transform: scale(1.05);
+}
+
+
+.form-link{
+	width: 100%;
+	text-align: center;
+	margin: 8px;
+
+}
+.form-link a{
+	text-decoration: none;
+	text-align: center;
+}
+
+.titulos{
+	color: #FFFFFF;
+	text-align: center;
+	
+}
+
+.btnform{
+    width: 60%;
+    height: 50px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    background-color: #789062;
+    border-radius: 8px;
+    border: 0px;
+}
+
+.botones{
+	display: flex;
+}
+
+a{
+	text-decoration: none;
+}

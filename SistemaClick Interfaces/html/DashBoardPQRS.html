@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <!--CAMBIAR TÍTULO--> <title>PQRS</title>
+     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <!--BootStrap-->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+    <!--Agregar Favicon--> <link rel="icon" href="../img/Carro.PNG">
+
+    <!--CSS--> <link rel="stylesheet" type="text/css" href="../css/EstolosDashboardPQRS.css">
+    
+
+</head>
+ </head>
+<body>
+     <!--Barra navegación superior-->
+        <header class="Logo">
+            <div>
+                 <!--Logo empresa-->
+                <img src="../img/Carro.PNG">
+            </div>
+
+             <!--Botones de le barra superior-->
+            <a href="#"><i class="fa-solid fa-bell"></i>Notificaciones</a>
+            <a href="../HTML/admi.html"><i class="fa-solid fa-house-chimney"></i>Inicio</a>
+            <a href="../HTML/indexsistemaclick.html"><i class="fas fa-sign-out-alt"></i>Cerrar Sesión</a>
+        </header>
+
+        <!--Contenido Barrra lateral-->
+
+        <main>
+            <nav>
+                <!--Imagen actor/rol/persona encargada-->
+                <img class="imgdas" src="../IMG/Cliente01.jpg" alt="">
+                <br>
+            
+                 <!--Nombre y cargo persona-->
+                 <div class="nombre">
+                <center><p>José Antonio Murillo</p></center>
+                
+                <center><p>Cliente</p></center>
+                </div>
+
+                <br><br>
+                <!--Botones Desplegables-->
+                <div class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false"><!--ICONO DE LA OPCIÓN--> <i class="fa-solid fa-calendar-days"></i> Horarios </button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                    <li><a class="dropdown-item" href="../HTML/DashBoardHorarios.html">Recolección en el sector</a></li>
+                  
+                </ul>
+                
+                 <div class="dropdown">
+                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false"> <!--ICONO DE LA OPCIÓN--> <i class="fa-solid fa-user"></i> Mi Perfil </button>
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                    <li><a class="dropdown-item" href="../HTML/DashboardPerfiles.html">Actualizar mis datos</a></li>
+                    
+
+                </ul>
+
+                <div class="dropdown">
+                 <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false"><i class="fa-solid fa-bullhorn"></i>Atención al cliente</button>
+
+                    <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+                         <li><a class="dropdown-item" href="../HTML/DashBoardPQRS.html">PQRS</a></li>
+                    
+                    
+                    </ul>
+                </div>
+
+            </nav>
+            <br>
+
+               
+            <section>
+                <form>
+                <h1>Peticiones Quejas Reclamos Sugerencias</h1>
+                <br>
+                
+                <div class="mb-3">
+                <label name="Asunto" for="exampleFormControlInput1" class="form-label"><h3>Asunto</h3> </label>
+                <input type="text" class="form-control" id="exampleFormControlInput1" required>
+                </div>
+                <div class="mb-3">
+                <label name="Descripcion" for="exampleFormControlTextarea1" class="form-label"><h3>Cuentanos aquí</h3></label>
+                <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" required></textarea>
+                </div>
+                <button type="submit" class="btnform btn-success">Enviar</button>
+                <button type="reset" class="btnform btn-danger">Cancelar</button>
+                </form>
+            </section>
+        </main>
+
+        <!-- SCRIPTS -->
+         <!--JavaScript--> <script src='main.js'></script>
+         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script> <!-- Bootstrap script js-->
+        <script src="https://kit.fontawesome.com/646c794df3.js"></script> <!-- script iconos-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js" integrity="sha512-6PM0qYu5KExuNcKt5bURAoT6KCThUmHRewN3zUFNaoI6Di7XJPTMoT6K0nsagZKk2OB4L7E3q1uQKHNHd4stIQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <!--BootStrap-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy" crossorigin="anonymous"></script>
+</body>
+        
+ </body>
+ </html>

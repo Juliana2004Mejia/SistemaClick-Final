@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Control Inventario</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
+    <script src='main.js'></script>
+    <link rel='stylesheet' type='text/css' media='screen' href='../css/estilohistorialstock.css'>
+    <link rel="icon" href="../IMG/Carro.PNG">
+
+    <link rel="stylesheet" type="text/css" href="https//cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css">
+
+
+</head>
+<body>
+    <header class="Logo">
+        <div>
+            <img src="../IMG/Carro.PNG">
+        </div>
+        <a href="#"><i class="fa-solid fa-bell"></i>Notificaciones</a>
+        <a href="../HTML/admi.html"><i class="fa-solid fa-house-chimney"></i>Inicio</a>
+        <a href="../HTML/indexsistemaclick.html"><i class="fas fa-sign-out-alt"></i>Cerrar Sesión</a>
+    </header>
+
+    <main>
+        <nav>
+            <center><img class="imgdas" src="../IMG/imgJefeBodega.jpg" alt=""></center>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            
+
+            <center><h2>Jefe Bodega</h2></center>
+            <center><p>Pedro Luis Vargas</p></center>
+            <ul>
+                <br>
+                <li><a href="../html/Registrosp.html">Registrar Producto</a></li>
+                <li><a href="../html/EstadoEstock.html">Estado Del Stock</a></li>
+                <li><a href="../html/Historial.html">Historial entrada del producto</a></li>
+                <li><a href="../html/SalidasProducto.html">Historial salidas del producto</a></li>
+                <li><a href="../html/EntradasSalidas.html">Registrar entradas y salidas del producto</a></li>
+                <li><a href="../html/ActualizarDatos.html">Actualizar Datos</a></li>
+            </ul>
+        </nav>
+
+
+
+<section>
+   
+        
+        <div class="tabla3">
+            <h1>Historial de Entradas del producto del stock</h1>
+            <br>
+            <table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Fecha Entrada</th>
+                <th>Cantidad</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Embudo</td>
+                <td>23/09/2021</td>
+                <td>45</td>
+                <td>540.000</td>
+            </tr>
+            <tr>
+                <td>Recipiente</td>
+                <td>12/02/2021</td>
+                <td>12</td>
+                <td>180.000</td>
+                
+            </tr>
+            <tr>
+                <td>Compostera</td>
+                <td>23/07/2021</td>
+                <td>9</td>
+                <td>180.000</td>
+            </tr>
+        </div>
+    </tbody>
+</table>
+    <div class="grafico">
+    <script type="text/javascript">
+window.onload = function () {
+
+var chart = new CanvasJS.Chart("chartContainer", {
+animationEnabled: true,
+title:{
+text: "HISTORIAL DEL STOCK: Entradas "
+},
+axisY: {
+title: "Cantidad",
+includeZero: true
+},
+legend: {
+cursor:"pointer",
+itemclick : toggleDataSeries
+},
+toolTip: {
+shared: true,
+content: toolTipFormatter
+},
+data: [{
+type: "bar",
+showInLegend: true,
+name: "Embudo",
+color: "#58DFD0",
+dataPoints: [
+{ y: 45, label: "fecha:08/07/22" },
+{ y: 13, label: "fecha:08/08/22" },
+{ y: 9, label: "fecha:14/04/22" }
+
+]
+},
+{
+type: "bar",
+showInLegend: true,
+name: "Compostera",
+color: "#2E90C4",
+dataPoints: [
+{ y: 9 , label: "fecha:08/07/22" },
+{ y: 45, label: "fecha:08/08/22" },
+{ y: 15, label: "fecha:14/04/22" }
+]
+},
+{
+type: "bar",
+showInLegend: true,
+name: "Recipiente",
+color: "#016297 ",
+dataPoints: [
+{ y: 12, label: "fecha:08/07/22" },
+{ y: 10, label: "fecha:08/08/22" },
+{ y: 40, label: "fecha:14/04/22" }
+]
+}]
+});
+chart.render();
+
+function toolTipFormatter(e) {
+var str = "";
+var total = 0 ;
+var str3;
+var str2 ;
+for (var i = 0; i < e.entries.length; i++){
+var str1 = "<span style= \"color:"+e.entries[i].dataSeries.color + "\">" + e.entries[i].dataSeries.name + "</span>: <strong>"+  e.entries[i].dataPoint.y + "</strong> <br/>" ;
+
+str = str.concat(str1);
+}
+str2 = "<strong>" + e.entries[0].dataPoint.label + "</strong> <br/>";
+str3 = "<span style = \"color:Tomato\">Total: </span><strong>" + total + "</strong><br/>";
+return (str2.concat(str)).concat(str3);
+}
+
+function toggleDataSeries(e) {
+if (typeof (e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
+e.dataSeries.visible = false;
+}
+else {
+e.dataSeries.visible = true;
+}
+chart.render();
+}
+
+}
+
+</script>
+</div>
+</head>
+<body>
+<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</body>
+
+
+<!-- SCRIPTS -->
+<!--JavaScript-->
+<script src='main.js'></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script> <!-- Bootstrap script js-->
+<script src="https://kit.fontawesome.com/646c794df3.js"></script> <!-- script iconos-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/js/all.min.js" integrity="sha512-6PM0qYu5KExuNcKt5bURAoT6KCThUmHRewN3zUFNaoI6Di7XJPTMoT6K0nsagZKk2OB4L7E3q1uQKHNHd4stIQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!--BootStrap-->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js" integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy" crossorigin="anonymous"></script>
+
+<script type="text/javascript" src="https//cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="../js/JSClientesadmin.js"></script>
+
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+
+</body>
+</html>

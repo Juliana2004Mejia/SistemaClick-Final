@@ -1,0 +1,71 @@
+﻿@model IEnumerable<SistemaClick.Data.Entities.Recoleccion>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Fecha)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Direccion_cliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Objetivo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nombre_cliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Hora_llegada)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Empleado)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Localidad)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fecha)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Direccion_cliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Objetivo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre_cliente)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Hora_llegada)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Empleado.Apellido)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Localidad.Nombre)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.RecoleccionId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.RecoleccionId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.RecoleccionId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>REGISTRATE</title>
+	<link rel="stylesheet" type="text/css" href="../css/EstilosRegistrosSC.css">
+	<link rel="icon" href="../IMG/Carro.PNG">
+</head>
+<body>
+
+	<header><center><img src="../IMG/Carro.PNG"></center></header>
+
+	<form class="form-register" method="#" onsubmit="return validarregistro()">
+
+	
+		
+		<h2 class="form-titulo">REGISTRARSE</h2>
+		<!--autofocus: auto enfoca el cursor-->
+		<div class="cont-input">
+			<input type="text"  id="nombres" name="nombres" placeholder="Nombres" class="input1" required autofocus>
+
+			<input type="text" id="apellidos" name="apellidos" placeholder="Apellidos" class="input1" required>
+
+			<input type="email"  id="correo" name="correo" placeholder="Correo" class="input2" required>
+
+			<input type="text" id="usuario" name="usuario" placeholder="Usuario" class="input1" required>
+
+			<input type="password" id="contraseña" name="contraseña" placeholder="Contraseña" class="input1" required>
+
+			<input type="number" id="telefono" placeholder="teléfono" class="input2" required>
+
+			<input type="text"  id="direccion" name="direccion" placeholder="Direccion" class="input2">
+			<div class="input2">
+				<label for="validationTooltip04" class="input2">Tipo Vivienda</label>
+				<select class="input2" id="validationTooltip04" required>
+				  <option>Casa</option>
+				  <option>Apartamento </option>
+				  
+				</select>
+				<div class="invalid-tooltip">
+				</div>
+			
+			<div class="input2">
+				<label for="validationTooltip04" class="input2">Localidad</label>
+				<select class="input2" id="validationTooltip04" required>
+				  <option >Chapinero</option>
+				  <option>Teusaquillo</option>
+				  <option>Engativa</option>
+				</select>
+				<div class="invalid-tooltip">
+				</div>
+
+				<div class="botones">
+				<button type="submit" class="btnform" onclick="registro()">Registrarse</button>
+				<button type="reset" class="btnform">Cancelar</button>  
+				</div>
+
+			<center><p class="form-link">¿Ya tienes cuenta?</p><a target="_blank" href="../HTML/IniciarSesionSC.html">Ingresa aquí</a></center>
+
+			
+
+		</div>
+	</form>
+
+	<script src="../js/validacionRegistroSC.js"></script>
+
+</body>
+</html>

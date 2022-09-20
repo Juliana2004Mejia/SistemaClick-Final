@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>INICIA SESIÓN</title>
+	<link rel="stylesheet" type="text/css" href="../CSS/EstilosIniciarSesiónSC.css">
+	<link rel="icon" href="../IMG/Carro.PNG">
+</head>
+<body>
+
+	<header><center><img src="../IMG/Carro.PNG"></center></header>
+
+
+	<form action="../html/admi.html">
+		<div class="formulario">
+			<h1>INICIO DE SESIÓN</h1>
+
+			<div class="label">
+			<label>Ingrese su correo </label>
+			</div>
+
+			<div class="input"> 
+			<input autofocus type="email" id="correo" required placeholder="">
+			</div>
+			<br>
+
+			<div class="label">
+			<label>Ingrese su contraseña</label>
+			</div>
+
+			<div class="input">
+			<input type="password" id="contraseña" required>
+			</div>
+
+			<div class="btn">
+				<input class="btn-enviar" type="submit" id="ingresar" value="Ingresar">
+			</div>
+
+			<div class="link">
+	                <div class="olvp">
+	                    <a href="../HTML/OlvideContraseñaSC.html">Recuperar contraseña</a>
+	                </div>
+	                <div class="Registro">
+	                    <a href="../HTML/RegistroSistemaClick.html">¿No tienes cuenta? Registrate aquí</a>
+	                </div>
+	            </div>
+
+		</div>
+	</form>
+	<script src="../JS/validacioninicioSesion.js"></script>
+</body>
+</html>

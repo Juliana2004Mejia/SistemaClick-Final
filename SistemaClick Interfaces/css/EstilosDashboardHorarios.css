@@ -1,0 +1,150 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+    background-color: f4f1de;
+}
+
+.Logo img{
+    margin-left: 10px;
+    width: 150px;
+    height: auto;
+}
+
+header{
+    height: 125px;
+    background: #789062;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    }
+
+header img{
+    width: 50%;
+    height: auto;
+}
+
+header a{
+    text-decoration: none;
+    color: #fff;
+    padding-right: 10px;
+    font-size: 20px;
+    font-weight: bold; 
+}
+
+header a:hover{
+    color: #3F4241;
+}
+
+.nombre{
+    font-weight: bold;
+}
+
+main{
+    display: flex;
+}
+
+.imgdas{
+    width: 170px;
+    height: 160px;
+    float: left;
+    padding: 15px;
+    text-align: center;
+    border-radius: 50px;
+
+}
+
+nav{
+    background-color: #00a896;
+    width: 300px;
+    height: 990px;
+}
+
+.dropdown{
+
+    border-radius: 0px;
+    background-color:#00a896;
+    
+    margin-top:20px ;
+}
+
+.btn{
+    border-color: #00a896;
+  border-bottom: 0px;
+  background-color: #00a896 ;
+  width: 300px;
+  height: 70px;
+}
+
+/* Contenido central*/
+
+main{
+    display: flex;
+}
+
+main section{
+   margin-left: 80px;
+    display: block;
+    align-content: center;
+}
+ section input{
+    width: 30%;
+    height: 10%;
+ }
+
+ section img{
+    width: 100%;
+ }
+
+
+section{
+    display: flex;
+    align-items: center;
+
+}
+
+.col{
+    width: 50%;
+    text-align: center;
+}
+
+.foto img{
+    width: 50%;
+    height: auto;
+    border-radius: 10px;
+}
+
+/*secciones*/
+
+.seccion1{
+    background-color: #EDECEC ;
+    width: 80%;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding: 15px 0px;
+    box-shadow: 0px 4px 0px 0px gray;
+}
+
+.seccion2{
+    background-color: #D2D2D2 ;
+    width: 80%;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    padding: 15px 0px;
+    box-shadow: 0px 4px 0px 0px gray;
+}
+
+.seccion3{
+    background-color: #B8B8B8 ;
+    width: 80%;
+    border-radius: 10px;
+    padding: 15px 0px;
+    box-shadow: 0px 4px 0px 0px gray;
+}
+
+section{
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-right: 30px;
+
+}
