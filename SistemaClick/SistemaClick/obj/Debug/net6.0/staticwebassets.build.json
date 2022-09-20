@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gvII6Q2EzSRAXl8YzmG+2assaK/Gfbf1LMSgv+JdYFk=",
+  "Hash": "crlT1WpXd8LcnqWR6KWLs9avSjOc7GAowVHFFbUlt1Q=",
   "Source": "SistemaClick",
   "BasePath": "_content/SistemaClick",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SistemaClick\\wwwroot",
       "Source": "SistemaClick",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\css\\site.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\css\\site.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\css\\site.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\favicon.ico",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\favicon.ico",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\favicon.ico"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\js\\site.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\js\\site.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -65,13 +65,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\js\\site.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -82,13 +82,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -99,13 +99,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -116,13 +116,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -133,13 +133,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -150,13 +150,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -167,13 +167,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -184,13 +184,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -201,13 +201,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -218,13 +218,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -235,13 +235,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -252,13 +252,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -269,13 +269,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -286,13 +286,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -303,13 +303,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -320,13 +320,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -337,13 +337,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -354,13 +354,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -371,13 +371,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -388,13 +388,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -405,13 +405,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -422,13 +422,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -439,13 +439,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -456,13 +456,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -473,13 +473,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -490,13 +490,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -507,13 +507,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -524,13 +524,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -541,13 +541,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -558,13 +558,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -575,13 +575,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -592,13 +592,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -609,13 +609,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -626,13 +626,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -643,13 +643,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -660,13 +660,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -677,13 +677,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -694,13 +694,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -711,13 +711,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -728,13 +728,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -745,13 +745,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -762,13 +762,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -779,13 +779,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -796,13 +796,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -813,13 +813,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -830,13 +830,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -847,13 +847,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -864,13 +864,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -881,13 +881,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -898,13 +898,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -915,13 +915,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -932,13 +932,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -949,13 +949,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -966,13 +966,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -983,13 +983,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1000,13 +1000,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1017,13 +1017,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Microsoft.AspNetCore.Identity.UI",
       "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
+      "ContentRoot": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\",
       "BasePath": "Identity",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1034,13 +1034,13 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\LENOVO\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+      "OriginalItemSpec": "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.6\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\css\\DiseñoCrud.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\css\\DiseñoCrud.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "css/DiseñoCrud.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\css\\DiseñoCrud.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\css\\estiloadmi.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\css\\estiloadmi.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "css/estiloadmi.css",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\css\\estiloadmi.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\css\\estilodasboardinicio.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\css\\estilodasboardinicio.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "css/estilodasboardinicio.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\css\\estilodasboardinicio.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\css\\estiloindexadmi.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\css\\estiloindexadmi.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "css/estiloindexadmi.css",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\css\\estiloindexadmi.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\css\\estiloindexSistemaclick.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\css\\estiloindexSistemaclick.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "css/estiloindexSistemaclick.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\estiloindexSistemaclick.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\css\\EstilosDashBoardClientes.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\css\\EstilosDashBoardClientes.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "css/EstilosDashBoardClientes.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\css\\EstilosDashBoardClientes.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\css\\EstilosIniciarSesiónSC.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\css\\EstilosIniciarSesiónSC.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "css/EstilosIniciarSesiónSC.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\css\\EstilosIniciarSesiónSC.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\css\\EstilosOlvideContraseña.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\css\\EstilosOlvideContraseña.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "css/EstilosOlvideContraseña.css",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\css\\EstilosOlvideContraseña.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\css\\EstilosRegistrosSC.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\css\\EstilosRegistrosSC.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "css/EstilosRegistrosSC.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\css\\EstilosRegistrosSC.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\css\\Recorridos1.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\css\\Recorridos1.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "css/Recorridos1.css",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\Recorridos1.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\css\\site.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\css\\TablasFuertes.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\css\\TablasFuertes.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "css/TablasFuertes.css",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\css\\TablasFuertes.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\favicon.ico",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\html\\admi.html",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\html\\admi.html",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "html/admi.html",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\html\\admi.html"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\html\\dasboardinicio.html",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\html\\dasboardinicio.html",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "html/dasboardinicio.html",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\html\\dasboardinicio.html"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\html\\DashBoardClientes.html",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\html\\DashBoardClientes.html",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "html/DashBoardClientes.html",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\html\\DashBoardClientes.html"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\html\\indexadmi.html",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\html\\indexadmi.html",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "html/indexadmi.html",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\html\\indexadmi.html"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\html\\indexSistemaclick.html",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\html\\indexSistemaclick.html",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "html/indexSistemaclick.html",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\html\\indexSistemaclick.html"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\html\\OlvideContraseñaSC.html",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\html\\OlvideContraseñaSC.html",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "html/OlvideContraseñaSC.html",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\html\\OlvideContraseñaSC.html"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\html\\Recorridos1.html",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\html\\Recorridos1.html",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "html/Recorridos1.html",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\html\\Recorridos1.html"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\html\\RegistroSistemaClick.html",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\html\\RegistroSistemaClick.html",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "html/RegistroSistemaClick.html",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\html\\RegistroSistemaClick.html"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\administrador.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\administrador.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/administrador.jpg",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\img\\administrador.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\article_1.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\article_1.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/article_1.jpg",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\img\\article_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\article_2.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\article_2.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/article_2.jpg",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\img\\article_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\article_3.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\article_3.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/article_3.jpg",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\img\\article_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\BienevenidoAdministrador.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\BienevenidoAdministrador.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/BienevenidoAdministrador.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\img\\BienevenidoAdministrador.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\boton.jfif",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\boton.jfif",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/boton.jfif",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\img\\boton.jfif"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\Carro.PNG",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\Carro.PNG",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/Carro.PNG",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Carro.PNG"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\Cliente01.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\Cliente01.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/Cliente01.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Cliente01.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\dasboardinicio.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\dasboardinicio.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/dasboardinicio.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\img\\dasboardinicio.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\descarga (9).jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\descarga (9).jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/descarga (9).jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\img\\descarga (9).jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\descarga.png",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\descarga.png",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/descarga.png",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\img\\descarga.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\evento1.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\evento1.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/evento1.jpg",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\img\\evento1.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\evento2.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\evento2.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/evento2.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\img\\evento2.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\facebook.png",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\facebook.png",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/facebook.png",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\facebook.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\FAVICON.JPG",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\FAVICON.JPG",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/FAVICON.JPG",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\img\\FAVICON.JPG"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\fondo.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\fondo.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/fondo.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\img\\fondo.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\fondo2.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\fondo2.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/fondo2.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\img\\fondo2.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\FondoMasCompost.png",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\FondoMasCompost.png",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/FondoMasCompost.png",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\img\\FondoMasCompost.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\IMAGEN2.JPG",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\IMAGEN2.JPG",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/IMAGEN2.JPG",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\img\\IMAGEN2.JPG"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\IMAGEN3.JPG",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\IMAGEN3.JPG",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/IMAGEN3.JPG",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\img\\IMAGEN3.JPG"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\ImgBienvenidosMasCompost.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\ImgBienvenidosMasCompost.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/ImgBienvenidosMasCompost.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\img\\ImgBienvenidosMasCompost.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\imgJefeBodega.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\imgJefeBodega.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/imgJefeBodega.jpg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgJefeBodega.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\imgprincipal.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\imgprincipal.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/imgprincipal.jpg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgprincipal.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\imgrecorredores.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\imgrecorredores.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/imgrecorredores.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\img\\imgrecorredores.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\JessicaRivas.PNG",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\JessicaRivas.PNG",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/JessicaRivas.PNG",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\img\\JessicaRivas.PNG"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\jiiiiii.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\jiiiiii.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/jiiiiii.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\img\\jiiiiii.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\Libro.JPG",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\Libro.JPG",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/Libro.JPG",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Libro.JPG"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\Logo.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\Logo.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/Logo.jpg",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Logo.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\LogoSC .png",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\LogoSC .png",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/LogoSC .png",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\img\\LogoSC .png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\logoSena (1).png",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\logoSena (1).png",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/logoSena (1).png",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logoSena (1).png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\logoSena.png",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\logoSena.png",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/logoSena.png",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logoSena.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\loSI.png",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\loSI.png",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/loSI.png",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\img\\loSI.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\main.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\main.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/main.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\main_1.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\main_1.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/main_1.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\main_2.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\main_2.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/main_2.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\main_3.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\main_3.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/main_3.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\main_4.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\main_4.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/main_4.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\img\\main_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\Mascompost.png",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\Mascompost.png",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/Mascompost.png",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Mascompost.png"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\Meta_F.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\Meta_F.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/Meta_F.jpg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Meta_F.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\plan3.PNG",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\plan3.PNG",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/plan3.PNG",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\img\\plan3.PNG"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\Plan30.webp",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\Plan30.webp",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/Plan30.webp",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Plan30.webp"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\PlanMascompost.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\PlanMascompost.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/PlanMascompost.jpg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\img\\PlanMascompost.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\pordios.jpeg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\pordios.jpeg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/pordios.jpeg",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pordios.jpeg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\pppp.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\pppp.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/pppp.jpg",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pppp.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\rol_1.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\rol_1.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/rol_1.jpg",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rol_1.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\rol_2.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\rol_2.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/rol_2.jpg",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rol_2.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\rol_3.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\rol_3.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/rol_3.jpg",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rol_3.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\rol_4.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\rol_4.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/rol_4.jpg",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\img\\rol_4.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\SENA.JPG",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\SENA.JPG",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/SENA.JPG",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SENA.JPG"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\img\\web_construccion.jpg",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\img\\web_construccion.jpg",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "img/web_construccion.jpg",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\img\\web_construccion.jpg"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\js\\site.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "SistemaClick",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\LENOVO\\Documents\\GitHub\\project-gaes7-sistemaclick\\SistemaClick\\SistemaClick\\wwwroot\\",
+      "ContentRoot": "D:\\Documents\\GitHub\\SistemaClick-Final\\SistemaClick\\SistemaClick\\wwwroot\\",
       "BasePath": "_content/SistemaClick",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

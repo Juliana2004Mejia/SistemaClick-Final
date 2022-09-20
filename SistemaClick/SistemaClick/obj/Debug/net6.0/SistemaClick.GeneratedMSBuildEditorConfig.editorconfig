@@ -8,465 +8,465 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SistemaClick
 build_property.RootNamespace = SistemaClick
-build_property.ProjectDir = C:\Users\LENOVO\Documents\GitHub\project-gaes7-sistemaclick\SistemaClick\SistemaClick\
+build_property.ProjectDir = D:\Documents\GitHub\SistemaClick-Final\SistemaClick\SistemaClick\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\LENOVO\Documents\GitHub\project-gaes7-sistemaclick\SistemaClick\SistemaClick
+build_property.MSBuildProjectDirectory = D:\Documents\GitHub\SistemaClick-Final\SistemaClick\SistemaClick
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/AFPS/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/AFPS/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUZQU1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/AFPS/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/AFPS/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUZQU1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/AFPS/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/AFPS/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUZQU1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/AFPS/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/AFPS/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUZQU1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/AFPS/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/AFPS/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQUZQU1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/ARLS/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/ARLS/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJMU1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/ARLS/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/ARLS/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJMU1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/ARLS/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/ARLS/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJMU1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/ARLS/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/ARLS/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJMU1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/ARLS/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/ARLS/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQVJMU1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Beneficios/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Beneficios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVuZWZpY2lvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Beneficios/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Beneficios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVuZWZpY2lvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Beneficios/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Beneficios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVuZWZpY2lvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Beneficios/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Beneficios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVuZWZpY2lvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Beneficios/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Beneficios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmVuZWZpY2lvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Cargos/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Cargos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Cargos/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Cargos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Cargos/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Cargos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Cargos/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Cargos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Cargos/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Cargos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyZ29zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Categorias/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Categorias/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Categorias/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Categorias/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Categorias/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Categorias/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Categorias/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Categorias/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Categorias/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Categorias/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmlhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/CCFS/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/CCFS/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NGU1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/CCFS/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/CCFS/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NGU1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/CCFS/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/CCFS/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NGU1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/CCFS/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/CCFS/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NGU1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/CCFS/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/CCFS/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ0NGU1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Clientes/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Clientes/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Clientes/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Clientes/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Clientes/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Empleados/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Empleados/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Empleados/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Empleados/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Empleados/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Empleados/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Empleados/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Empleados/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Empleados/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Empleados/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/EPS/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/EPS/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRVBTXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/EPS/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/EPS/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRVBTXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/EPS/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/EPS/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRVBTXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/EPS/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/EPS/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRVBTXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/EPS/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/EPS/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRVBTXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Home/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Home/Privacy.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Inventarios/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Inventarios/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Inventarios/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Inventarios/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Inventarios/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Inventarios/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Inventarios/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Inventarios/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Inventarios/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Inventarios/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52ZW50YXJpb3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Localidades/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Localidades/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpZGFkZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Localidades/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Localidades/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpZGFkZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Localidades/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Localidades/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpZGFkZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Localidades/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Localidades/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpZGFkZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Localidades/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Localidades/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYWxpZGFkZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Planes/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Planes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Planes/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Planes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbmVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Planes/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Planes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbmVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Planes/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Planes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbmVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Planes/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Planes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGxhbmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/PQRS/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/PQRS/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUFFSU1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/PQRS/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/PQRS/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUFFSU1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/PQRS/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/PQRS/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUFFSU1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/PQRS/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/PQRS/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUFFSU1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/PQRS/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/PQRS/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUFFSU1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Productos/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Productos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Productos/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Productos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Productos/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Productos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Productos/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Productos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Productos/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Productos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Proveedores/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Proveedores/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Proveedores/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Proveedores/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Proveedores/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Proveedores/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Proveedores/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Proveedores/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Proveedores/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Proveedores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvdmVlZG9yZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Recolecciones/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Recolecciones/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjb2xlY2Npb25lc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Recolecciones/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Recolecciones/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjb2xlY2Npb25lc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Recolecciones/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Recolecciones/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjb2xlY2Npb25lc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Recolecciones/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Recolecciones/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjb2xlY2Npb25lc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Recolecciones/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Recolecciones/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjb2xlY2Npb25lc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Roles/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Roles/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Roles/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Roles/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Roles/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Roles/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Roles/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Roles/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Roles/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Roles/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9sZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Shared/Error.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Shared/_Layout.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Shared/_LoginPartial.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoContratos/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoContratos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnRyYXRvc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoContratos/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoContratos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnRyYXRvc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoContratos/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoContratos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnRyYXRvc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoContratos/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoContratos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnRyYXRvc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoContratos/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoContratos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0NvbnRyYXRvc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoDocumentos/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoDocumentos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RvY3VtZW50b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoDocumentos/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoDocumentos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RvY3VtZW50b3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoDocumentos/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoDocumentos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RvY3VtZW50b3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoDocumentos/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoDocumentos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RvY3VtZW50b3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoDocumentos/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoDocumentos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb0RvY3VtZW50b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoViviendas/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoViviendas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1ZpdmllbmRhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoViviendas/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoViviendas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1ZpdmllbmRhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoViviendas/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoViviendas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1ZpdmllbmRhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoViviendas/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoViviendas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1ZpdmllbmRhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/TipoViviendas/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/TipoViviendas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGlwb1ZpdmllbmRhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/UnidadMedidas/Create.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/UnidadMedidas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pZGFkTWVkaWRhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/UnidadMedidas/Delete.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/UnidadMedidas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pZGFkTWVkaWRhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/UnidadMedidas/Details.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/UnidadMedidas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pZGFkTWVkaWRhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/UnidadMedidas/Edit.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/UnidadMedidas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pZGFkTWVkaWRhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/UnidadMedidas/Index.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/UnidadMedidas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVW5pZGFkTWVkaWRhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/_ViewImports.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/LENOVO/Documents/GitHub/project-gaes7-sistemaclick/SistemaClick/SistemaClick/Views/_ViewStart.cshtml]
+[D:/Documents/GitHub/SistemaClick-Final/SistemaClick/SistemaClick/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
